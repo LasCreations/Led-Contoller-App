@@ -11,4 +11,5 @@
 
 ## Get Started with Python Flask
 pip3 install Flask
+sudo apt install python3.10-venv
 
